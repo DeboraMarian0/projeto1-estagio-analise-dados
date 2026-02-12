@@ -1,6 +1,6 @@
 # 📊 Dashboard - Análise de Consumo e Custos — Power BI
 
-Este repositório apresenta um **dashboard desenvolvido em Power BI** durante meu **período de estágio**, com foco no **monitoramento, análise e controle de consumo e custos** relacionados a **água, esgoto e energia elétrica** de múltiplas unidades operacionais.
+Este repositório apresenta um **dashboard desenvolvido em Power BI** no início do meu **período de estágio**, com foco no **monitoramento, análise e controle de consumo e custos** relacionados a **água, esgoto e energia elétrica** de múltiplas unidades operacionais.
 
 O dashboard foi construído com dados reais da organização, aplicando conceitos de **Business Intelligence**, **modelagem de dados**, **DAX** e **visualização interativa**, com o objetivo de apoiar a **tomada de decisão gerencial**.Por esse motivo apenas as imagens estão sendo disponibilizadas neste repositório. Sendo assim, tais imagens contêm as informações borradas (com blur) devido a um Acordo de Confidencialidade (NDA – Non-Disclosure Agreement). Diante disso, não é permitido divulgar informações sensíveis ou estratégicas. O objetivo da publicação é demonstrar a estrutura do dashboard, modelagem e organização visual, sem expor dados confidenciais.
 
